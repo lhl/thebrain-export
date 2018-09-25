@@ -1,0 +1,3143 @@
+{
+  "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+  "root": {
+    "id": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+    "parents": [
+      "08b10449-8592-bb88-4764-84a8f011a92d"
+    ],
+    "siblings": [
+      "5879b105-67b5-1d2b-757b-144173e85633",
+      "d36621b6-61fa-40ac-92c9-18b7597d9c64",
+      "e2af1598-7913-9746-0add-1b2d574dc73e",
+      "7160cb2e-a8ad-5209-aa2a-1bf08e4de0f7",
+      "c5b5b66d-08b5-889a-11fc-3eddb9745e80",
+      "97e5d143-70f3-42c6-89d8-516977c30eb5",
+      "3a11bb9d-76fc-9609-49c0-538d6959b0fd",
+      "27aa6dd4-ac9c-c578-fbc8-5d2b1eb612c2",
+      "70e270da-e1ed-f136-02d7-6106e3e2a967",
+      "c162261e-29fb-4e67-1cf1-6237cae8a92d",
+      "af88a8f8-efec-d2c6-0609-72fcdc389ad5",
+      "26ffa6b6-09a5-c986-6efa-758331763709",
+      "c5f71ac6-adc0-45db-4fb5-86547da64f7c",
+      "596ad2a2-c802-1346-adcd-905012e8e644",
+      "f0e0c9ea-233c-941c-9fdb-968df4a086ab",
+      "b0b843c9-b5c4-f7d3-266a-9ab6b9c6e2e5",
+      "c0353685-9dd7-42b1-b873-b5d335c9eac6",
+      "5e2c5359-3bfe-3619-9412-c21955b164da",
+      "4ebc8a22-83eb-14c3-f824-c759dd2c4e4d",
+      "644bb317-fcc1-359f-e0ff-d79b732f0169",
+      "f4f9a577-e4c3-e67a-0949-da716488e862",
+      "5f0da2af-54c2-6039-ba38-e0e1e8996cdb",
+      "72b2e17f-c588-8d7d-d4ef-e3a38d51c058",
+      "71b3fc1c-595b-f162-cc12-e55cb32c4278",
+      "9d24eb7b-d0ae-98ff-da92-f230c17c6b7c"
+    ],
+    "jumps": [],
+    "children": [
+      "d11da345-1ddc-ef14-784c-7b94fa5c88a5",
+      "f8d83189-b467-32b3-5555-bdcd3d56215f",
+      "f7b838dd-08d8-3a02-d72e-d2a7efe0c821",
+      "724b809a-bc4f-0918-6688-e0cf29bd3faa"
+    ],
+    "attachments": [
+      "6492d41a-73b2-20d8-b145-3283598c612b",
+      "d82133cb-1c3f-4d97-bee0-71090637af6b"
+    ]
+  },
+  "thoughts": [
+    {
+      "typeId": null,
+      "name": "Welcome! (click this icon to visit an explanation page)",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-07-20T20:34:14.834614",
+      "linksModificationDateTime": "2015-09-24T06:55:06.711",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:therexpedition.com:1:False:False",
+      "creationDateTime": "2000-03-13T11:57:37",
+      "modificationDateTime": "2016-05-06T18:50:32.098181",
+      "syncUpdateDateTime": "2011-04-26T06:23:23",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "32f9fc36-6963-9ee0-9b44-a89112919e29"
+    },
+    {
+      "typeId": null,
+      "name": "Beginnings",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-06-08T19:02:32.226465",
+      "linksModificationDateTime": "2014-05-27T14:57:31.014",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2001-06-14T09:48:15",
+      "modificationDateTime": "2009-06-16T10:38:49",
+      "syncUpdateDateTime": "2010-11-23T16:51:51",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "08b10449-8592-bb88-4764-84a8f011a92d"
+    },
+    {
+      "typeId": null,
+      "name": "Useful Starting Points for Understanding Jerry's Brain",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-07-20T21:13:17.83467",
+      "linksModificationDateTime": "2015-09-23T12:55:06.705",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2015-09-08T23:32:37.654",
+      "modificationDateTime": "2015-09-23T12:54:50.973",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "d11da345-1ddc-ef14-784c-7b94fa5c88a5"
+    },
+    {
+      "typeId": null,
+      "name": "Good Starting Points",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-06-03T23:35:02.099048",
+      "linksModificationDateTime": "2015-01-13T17:54:06.106",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2003-04-14T17:40:39",
+      "modificationDateTime": "2009-01-29T01:10:25",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "f8d83189-b467-32b3-5555-bdcd3d56215f"
+    },
+    {
+      "typeId": null,
+      "name": "Notes About Using My Brain",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-05-06T18:49:16.414984",
+      "linksModificationDateTime": "2015-10-25T00:13:35.173",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2009-08-07T00:47:53",
+      "modificationDateTime": "2009-08-07T00:47:57",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "f7b838dd-08d8-3a02-d72e-d2a7efe0c821"
+    },
+    {
+      "typeId": null,
+      "name": "New and Improved Areas",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-07-20T20:34:11.238306",
+      "linksModificationDateTime": "2016-02-15T16:13:12.881",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "1998-11-21T21:42:27",
+      "modificationDateTime": "2010-05-05T13:30:32",
+      "syncUpdateDateTime": "2011-06-17T04:26:55",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "724b809a-bc4f-0918-6688-e0cf29bd3faa"
+    },
+    {
+      "typeId": null,
+      "name": "Initiation",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2013-11-04T13:15:30.835",
+      "linksModificationDateTime": "2009-09-29T03:04:35",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "1999-10-20T19:56:31",
+      "modificationDateTime": "2009-09-29T03:04:13",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "5879b105-67b5-1d2b-757b-144173e85633"
+    },
+    {
+      "typeId": null,
+      "name": "Fertilization",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-04-26T23:34:21.590058",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2016-04-26T23:34:21.55949",
+      "modificationDateTime": "2016-04-26T23:34:21.55949",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "d36621b6-61fa-40ac-92c9-18b7597d9c64"
+    },
+    {
+      "typeId": null,
+      "name": "The Big Bang",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2014-09-23T02:24:20.867",
+      "linksModificationDateTime": "2014-03-18T04:13:55.208",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "1999-07-03T02:11:55",
+      "modificationDateTime": "2009-08-12T03:51:59",
+      "syncUpdateDateTime": "2010-07-13T22:10:00",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "e2af1598-7913-9746-0add-1b2d574dc73e"
+    },
+    {
+      "typeId": null,
+      "name": "Index Case (patient zero)",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2010-02-14T06:00:06",
+      "linksModificationDateTime": "2010-02-14T06:00:26",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": "Wikipedia, the free encyclopedia",
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "2010-02-14T06:00:02",
+      "modificationDateTime": "2010-02-14T06:00:13",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "7160cb2e-a8ad-5209-aa2a-1bf08e4de0f7"
+    },
+    {
+      "typeId": null,
+      "name": "Startups",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-05-18T15:55:43.31709",
+      "linksModificationDateTime": "2015-12-23T21:59:01.381",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2013-02-06T06:22:35",
+      "modificationDateTime": "2010-05-30T20:29:53",
+      "syncUpdateDateTime": "2013-02-10T05:36:12.643",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "c5b5b66d-08b5-889a-11fc-3eddb9745e80"
+    },
+    {
+      "typeId": null,
+      "name": "Origins of the Universe",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2018-03-03T00:03:53.754145",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False:0",
+      "creationDateTime": "2018-03-03T00:03:49.718567",
+      "modificationDateTime": "2018-03-03T00:03:49.718568",
+      "syncUpdateDateTime": "2018-03-03T00:10:17.517338",
+      "syncUpdateId": "c2079b11-52c1-4599-ae97-d32d57d4970f",
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "97e5d143-70f3-42c6-89d8-516977c30eb5"
+    },
+    {
+      "typeId": null,
+      "name": "Original Sin",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-05-07T05:37:50.705987",
+      "linksModificationDateTime": "2012-02-07T19:06:45.96",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "2002-03-08T18:32:18",
+      "modificationDateTime": "2010-01-22T06:03:51",
+      "syncUpdateDateTime": "2011-12-01T17:12:49",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "3a11bb9d-76fc-9609-49c0-538d6959b0fd"
+    },
+    {
+      "typeId": null,
+      "name": "Origins",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2014-10-20T16:05:36.643",
+      "linksModificationDateTime": "2014-10-20T16:05:40.941",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "1998-08-12T09:56:07",
+      "modificationDateTime": "2009-06-16T14:38:54",
+      "syncUpdateDateTime": "2010-10-23T20:37:44",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "27aa6dd4-ac9c-c578-fbc8-5d2b1eb612c2"
+    },
+    {
+      "typeId": null,
+      "name": "Starting",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2007-03-20T15:51:53",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2002-02-26T00:46:41",
+      "modificationDateTime": "2009-08-12T03:52:02",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "70e270da-e1ed-f136-02d7-6106e3e2a967"
+    },
+    {
+      "typeId": null,
+      "name": "Launch",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2010-11-23T19:11:20",
+      "linksModificationDateTime": "2010-11-23T19:11:25",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "1999-06-25T17:25:25",
+      "modificationDateTime": "2004-04-01T02:22:56",
+      "syncUpdateDateTime": "2010-11-23T20:51:51",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "c162261e-29fb-4e67-1cf1-6237cae8a92d"
+    },
+    {
+      "typeId": null,
+      "name": "Greetings",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2013-11-17T04:46:57.413",
+      "linksModificationDateTime": "2013-11-17T04:47:58.559",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "2006-04-21T11:13:05",
+      "modificationDateTime": "2006-04-21T11:13:21",
+      "syncUpdateDateTime": "2011-05-23T14:06:08",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "af88a8f8-efec-d2c6-0609-72fcdc389ad5"
+    },
+    {
+      "typeId": null,
+      "name": "The Middle",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2011-10-02T17:57:40",
+      "linksModificationDateTime": "2011-10-02T17:57:44",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2003-11-30T01:49:54",
+      "modificationDateTime": "2009-07-15T01:51:00",
+      "syncUpdateDateTime": "2011-10-02T20:35:27",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "26ffa6b6-09a5-c986-6efa-758331763709"
+    },
+    {
+      "typeId": null,
+      "name": "Primers",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2013-04-02T04:35:53.897",
+      "linksModificationDateTime": "2012-11-27T18:25:56.521",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "2000-01-04T04:28:46",
+      "modificationDateTime": "2000-01-04T04:28:46",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "c5f71ac6-adc0-45db-4fb5-86547da64f7c"
+    },
+    {
+      "typeId": null,
+      "name": "Firsts",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2006-12-19T19:43:48",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2001-12-13T14:58:37",
+      "modificationDateTime": "2001-12-13T14:58:51",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "596ad2a2-c802-1346-adcd-905012e8e644"
+    },
+    {
+      "typeId": null,
+      "name": "Simple Initial Conditions",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2006-12-19T19:45:32",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2003-06-07T15:27:04",
+      "modificationDateTime": "2003-06-07T15:42:03",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "f0e0c9ea-233c-941c-9fdb-968df4a086ab"
+    },
+    {
+      "typeId": null,
+      "name": "Pangaea",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2015-09-19T14:58:15.544",
+      "linksModificationDateTime": "2015-09-19T14:58:22.289",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": "Wikipedia, the free encyclopedia",
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "2010-08-16T20:26:35",
+      "modificationDateTime": "2010-08-16T20:26:36",
+      "syncUpdateDateTime": "2010-08-22T03:46:32",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "b0b843c9-b5c4-f7d3-266a-9ab6b9c6e2e5"
+    },
+    {
+      "typeId": null,
+      "name": "Welcoming Ceremonies",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-12-19T19:45:06.047172",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2016-12-19T19:45:04.500437",
+      "modificationDateTime": "2016-12-19T19:45:04.500437",
+      "syncUpdateDateTime": "2017-04-18T00:47:09.343946",
+      "syncUpdateId": "10b66185-9afb-422a-96e6-0b1576facde5",
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "c0353685-9dd7-42b1-b873-b5d335c9eac6"
+    },
+    {
+      "typeId": null,
+      "name": "Introductions",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2015-10-18T21:37:16.978",
+      "linksModificationDateTime": "2015-10-18T21:37:08.1",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2004-10-09T02:31:28",
+      "modificationDateTime": "2004-10-09T02:31:41",
+      "syncUpdateDateTime": "2011-09-17T12:21:30",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "5e2c5359-3bfe-3619-9412-c21955b164da"
+    },
+    {
+      "typeId": null,
+      "name": "Ur",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2018-01-28T16:06:15.372569",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False:0",
+      "creationDateTime": "2001-01-17T21:15:56",
+      "modificationDateTime": "2018-01-28T16:03:54.088089",
+      "syncUpdateDateTime": "2018-02-16T21:38:58.456482",
+      "syncUpdateId": "061c9b49-3b33-447c-a2c9-ca497b0a4f35",
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "4ebc8a22-83eb-14c3-f824-c759dd2c4e4d"
+    },
+    {
+      "typeId": null,
+      "name": "Triggers",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-01-16T19:44:14.097",
+      "linksModificationDateTime": "2016-01-22T05:03:17.652",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2002-12-07T04:24:41",
+      "modificationDateTime": "2009-03-19T23:07:51",
+      "syncUpdateDateTime": "2011-09-18T06:21:30",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "644bb317-fcc1-359f-e0ff-d79b732f0169"
+    },
+    {
+      "typeId": null,
+      "name": "First Impressions",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2012-11-29T17:29:53.604",
+      "linksModificationDateTime": "2012-11-29T17:30:08.198",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2011-01-31T23:21:25",
+      "modificationDateTime": "2011-01-31T23:21:25",
+      "syncUpdateDateTime": "2011-02-05T07:12:45",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "f4f9a577-e4c3-e67a-0949-da716488e862"
+    },
+    {
+      "typeId": null,
+      "name": "Beginners",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2016-05-06T18:11:38.58265",
+      "linksModificationDateTime": "2007-12-16T17:43:56",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2007-12-16T17:42:35",
+      "modificationDateTime": "2007-12-16T17:42:35",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "5f0da2af-54c2-6039-ba38-e0e1e8996cdb"
+    },
+    {
+      "typeId": null,
+      "name": "Birth",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2017-11-29T22:42:27.782042",
+      "linksModificationDateTime": "2015-04-10T01:33:55.42",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False:0",
+      "creationDateTime": "1999-04-30T19:54:01",
+      "modificationDateTime": "2017-11-29T22:42:42.454043",
+      "syncUpdateDateTime": "2017-11-29T22:48:14.060574",
+      "syncUpdateId": "e11cdea1-ab5d-41f3-a9d4-64395edd2bc6",
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "72b2e17f-c588-8d7d-d4ef-e3a38d51c058"
+    },
+    {
+      "typeId": null,
+      "name": "Bootstrapping",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2015-07-20T16:41:31.18",
+      "linksModificationDateTime": "2014-05-27T17:58:38.715",
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": "Wikipedia, the free encyclopedia",
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "3:en.wikipedia.org:1:False:False",
+      "creationDateTime": "2014-05-27T17:56:58.69",
+      "modificationDateTime": "2014-05-27T17:56:59.751",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "71b3fc1c-595b-f162-cc12-e55cb32c4278"
+    },
+    {
+      "typeId": null,
+      "name": "Debuts",
+      "displayModificationDateTime": null,
+      "forgottenDateTime": null,
+      "activationDateTime": "2006-12-19T19:43:51",
+      "linksModificationDateTime": null,
+      "acType": 0,
+      "kind": 1,
+      "tagIds": [],
+      "label": null,
+      "foregroundColor": null,
+      "backgroundColor": null,
+      "thoughtIconInfo": "1::0:False:False",
+      "creationDateTime": "2002-01-07T23:21:37",
+      "modificationDateTime": "2002-01-07T23:21:37",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "9d24eb7b-d0ae-98ff-da92-f230c17c6b7c"
+    }
+  ],
+  "attachments": [
+    {
+      "sourceId": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+      "name": "Welcome to My Brain",
+      "position": 1.0,
+      "fileModificationDateTime": null,
+      "type": 3,
+      "dataLength": 0,
+      "location": "http://therexpedition.com/about/about-jerry/welcome-to-my-brain/",
+      "format": "",
+      "isIcon": false,
+      "sourceType": 2,
+      "noteType": 2,
+      "isWallpaper": false,
+      "creationDateTime": "2013-11-04T20:48:29.979",
+      "modificationDateTime": "2016-07-20T14:39:08.260816",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "6492d41a-73b2-20d8-b145-3283598c612b"
+    },
+    {
+      "sourceId": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+      "name": "notes.html",
+      "position": 0.0,
+      "fileModificationDateTime": null,
+      "type": 4,
+      "dataLength": 0,
+      "location": "notes.html",
+      "format": null,
+      "isIcon": false,
+      "sourceType": 2,
+      "noteType": 2,
+      "isWallpaper": false,
+      "creationDateTime": "2016-06-08T21:23:34.030478",
+      "modificationDateTime": "2016-06-08T21:23:34.030478",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "d82133cb-1c3f-4d97-bee0-71090637af6b"
+    }
+  ],
+  "attachmentIcons": {},
+  "links": [
+    {
+      "thoughtIdA": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+      "thoughtIdB": "f8d83189-b467-32b3-5555-bdcd3d56215f",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:53:08",
+      "modificationDateTime": "2006-12-19T19:53:08",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "5f429d9b-ad56-6f03-56c1-1e1880a4f97b"
+    },
+    {
+      "thoughtIdA": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+      "thoughtIdB": "f7b838dd-08d8-3a02-d72e-d2a7efe0c821",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2009-08-07T16:47:53",
+      "modificationDateTime": "2009-08-07T16:47:53",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "76efc2c6-674a-4edc-0504-748e48eefe2f"
+    },
+    {
+      "thoughtIdA": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+      "thoughtIdB": "724b809a-bc4f-0918-6688-e0cf29bd3faa",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:07",
+      "modificationDateTime": "2006-12-19T19:52:07",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "f404e143-7052-6ef4-aa3b-81c603729f4b"
+    },
+    {
+      "thoughtIdA": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+      "thoughtIdB": "d11da345-1ddc-ef14-784c-7b94fa5c88a5",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2015-09-24T06:55:06.697",
+      "modificationDateTime": "2015-09-24T06:55:06.697",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "75a8f1ab-6af4-4e25-aad9-c0bf15711802"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "32f9fc36-6963-9ee0-9b44-a89112919e29",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2009-07-15T01:50:12",
+      "modificationDateTime": "2009-07-15T01:50:12",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "5fdd4be6-4504-0c44-f571-dd2df0e25e58"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "72b2e17f-c588-8d7d-d4ef-e3a38d51c058",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2009-07-15T01:50:51",
+      "modificationDateTime": "2009-07-15T01:50:51",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "dd527a9b-8561-8299-d61a-08be448cd01b"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "4ebc8a22-83eb-14c3-f824-c759dd2c4e4d",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:23",
+      "modificationDateTime": "2006-12-19T19:52:23",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "27b6a1b8-0301-e604-b565-1e9f705fbb6b"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "d36621b6-61fa-40ac-92c9-18b7597d9c64",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": null,
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2016-04-26T23:34:40.267398",
+      "modificationDateTime": "2016-04-26T23:34:40.267398",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "211d9a3d-b339-4f52-a05b-1fc7885ecffd"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "9d24eb7b-d0ae-98ff-da92-f230c17c6b7c",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:27",
+      "modificationDateTime": "2006-12-19T19:52:27",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "b2e6123b-0268-550c-2859-1fe41fe8abf8"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "26ffa6b6-09a5-c986-6efa-758331763709",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:53:17",
+      "modificationDateTime": "2006-12-19T19:53:17",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "05d26a6c-8599-7e1c-e896-2f561632418b"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "5879b105-67b5-1d2b-757b-144173e85633",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2009-09-29T19:04:35",
+      "modificationDateTime": "2009-09-29T19:04:35",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "6ef157b9-6ac1-021a-a14e-349982aad532"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "5f0da2af-54c2-6039-ba38-e0e1e8996cdb",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2007-12-16T17:42:44",
+      "modificationDateTime": "2007-12-16T17:42:44",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "b46551ab-1935-499b-d40c-46c7a6fc36ea"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "27aa6dd4-ac9c-c578-fbc8-5d2b1eb612c2",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:23",
+      "modificationDateTime": "2006-12-19T19:52:23",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "d0579bc8-20d1-0d27-0348-57c0e15c7b95"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "70e270da-e1ed-f136-02d7-6106e3e2a967",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:30",
+      "modificationDateTime": "2006-12-19T19:52:30",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "9c1f34b1-77ee-73d5-4046-607679a4fd2c"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "644bb317-fcc1-359f-e0ff-d79b732f0169",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:43",
+      "modificationDateTime": "2006-12-19T19:52:43",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "ee9f390d-a311-0281-f60a-6e4ae5752255"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "e2af1598-7913-9746-0add-1b2d574dc73e",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:23",
+      "modificationDateTime": "2006-12-19T19:52:23",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "826766bb-3b87-4263-9dce-7c70b928f97e"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "7160cb2e-a8ad-5209-aa2a-1bf08e4de0f7",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2010-02-14T22:00:26",
+      "modificationDateTime": "2010-02-14T22:00:26",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "f1782a6c-a7c5-47e9-6637-8759551aabb7"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "f0e0c9ea-233c-941c-9fdb-968df4a086ab",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:53:09",
+      "modificationDateTime": "2006-12-19T19:53:09",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "0344e2fe-f344-f891-e6c9-901f99fcea20"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "c5f71ac6-adc0-45db-4fb5-86547da64f7c",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2008-08-17T19:12:29",
+      "modificationDateTime": "2008-08-17T19:12:29",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "ce0ea760-6b5b-dd25-dfdc-93a890f1a83f"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "f4f9a577-e4c3-e67a-0949-da716488e862",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2012-11-29T17:30:02.635",
+      "modificationDateTime": "2012-11-29T17:30:02.635",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "377e7f43-3a61-2b81-e4e1-a3f272b492b5"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "3a11bb9d-76fc-9609-49c0-538d6959b0fd",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2008-08-19T22:19:35",
+      "modificationDateTime": "2008-08-19T22:19:35",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "c4dcbfca-e34b-7476-852b-a6126dcd88e5"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "c5b5b66d-08b5-889a-11fc-3eddb9745e80",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:23",
+      "modificationDateTime": "2006-12-19T19:52:23",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "d92cc0ae-5d92-773c-c49c-a75f86a382b6"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "c0353685-9dd7-42b1-b873-b5d335c9eac6",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": null,
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2016-12-19T19:45:13.963226",
+      "modificationDateTime": "2016-12-19T19:45:13.963226",
+      "syncUpdateDateTime": "2017-04-18T00:47:09.343946",
+      "syncUpdateId": "10b66185-9afb-422a-96e6-0b1576facde5",
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "d4aaf71b-5588-411a-befb-abcec7eb343a"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "71b3fc1c-595b-f162-cc12-e55cb32c4278",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2014-05-27T14:57:30.906",
+      "modificationDateTime": "2014-05-27T14:57:30.906",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "4c6471c3-ff27-89ac-b65d-ac3025cdb39e"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "97e5d143-70f3-42c6-89d8-516977c30eb5",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": null,
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2018-03-03T00:04:02.485444",
+      "modificationDateTime": "2018-03-03T00:04:02.485444",
+      "syncUpdateDateTime": "2018-03-03T00:10:17.517338",
+      "syncUpdateId": "c2079b11-52c1-4599-ae97-d32d57d4970f",
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "013108d7-8b0a-4014-99ae-b4b660b6b309"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "b0b843c9-b5c4-f7d3-266a-9ab6b9c6e2e5",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": 0,
+      "creationDateTime": "2010-08-16T20:27:00",
+      "modificationDateTime": "2010-08-16T20:27:00",
+      "syncUpdateDateTime": "2010-08-22T03:46:32",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "72e2ee3a-e4f8-cbe3-91ba-c6934c54cf97"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "c162261e-29fb-4e67-1cf1-6237cae8a92d",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": 0,
+      "creationDateTime": "2010-11-23T19:11:25",
+      "modificationDateTime": "2010-11-23T19:11:25",
+      "syncUpdateDateTime": "2010-11-23T20:51:51",
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "a4f4f326-158b-c96d-0b4c-c7e5627a09ad"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "5e2c5359-3bfe-3619-9412-c21955b164da",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:53:31",
+      "modificationDateTime": "2006-12-19T19:53:31",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "f59aa3d9-5202-4134-9a85-ebee9101222a"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "596ad2a2-c802-1346-adcd-905012e8e644",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:52:26",
+      "modificationDateTime": "2006-12-19T19:52:26",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "65a78811-fb3f-1c89-2fa6-f7b673a635b9"
+    },
+    {
+      "thoughtIdA": "08b10449-8592-bb88-4764-84a8f011a92d",
+      "thoughtIdB": "af88a8f8-efec-d2c6-0609-72fcdc389ad5",
+      "kind": 1,
+      "relation": 1,
+      "direction": -1,
+      "meaning": 1,
+      "typeId": "00000000-0000-0000-0000-000000000000",
+      "name": null,
+      "color": null,
+      "thickness": -1,
+      "creationDateTime": "2006-12-19T19:53:58",
+      "modificationDateTime": "2006-12-19T19:53:58",
+      "syncUpdateDateTime": null,
+      "syncUpdateId": null,
+      "brainId": "3d80058c-14d8-5361-0b61-a061f89baf87",
+      "id": "ef6ce664-243f-2c21-bd83-fccf4f359b6c"
+    }
+  ],
+  "tags": [],
+  "notesText": "",
+  "gateCounts": {
+    "32f9fc36-6963-9ee0-9b44-a89112919e29": [
+      4,
+      1,
+      0
+    ],
+    "f8d83189-b467-32b3-5555-bdcd3d56215f": [
+      17,
+      1,
+      0
+    ],
+    "f7b838dd-08d8-3a02-d72e-d2a7efe0c821": [
+      10,
+      2,
+      0
+    ],
+    "724b809a-bc4f-0918-6688-e0cf29bd3faa": [
+      64,
+      2,
+      1
+    ],
+    "d11da345-1ddc-ef14-784c-7b94fa5c88a5": [
+      12,
+      2,
+      0
+    ],
+    "08b10449-8592-bb88-4764-84a8f011a92d": [
+      26,
+      2,
+      1
+    ],
+    "fc10251f-db0a-5c3e-a3e8-10952c282603": [
+      0,
+      1,
+      0
+    ],
+    "80793c5b-8d7c-8a09-25c3-90080d586e68": [
+      0,
+      1,
+      0
+    ],
+    "13170610-96bf-810b-4f9e-0b55195db3a0": [
+      0,
+      0,
+      1
+    ],
+    "72b2e17f-c588-8d7d-d4ef-e3a38d51c058": [
+      21,
+      5,
+      3
+    ],
+    "626cfb53-f1ed-9aab-aa69-36fa275290a5": [
+      0,
+      1,
+      0
+    ],
+    "e74f7763-9a65-75de-b38a-3ddd48ac2bb6": [
+      0,
+      2,
+      0
+    ],
+    "7f04faad-5a3d-5d69-ef05-81ef13b78e75": [
+      0,
+      1,
+      0
+    ],
+    "c8ccc477-c7d6-6d6e-e682-1cc6827d98a4": [
+      0,
+      1,
+      0
+    ],
+    "8d1e7452-561b-81d3-6ec9-e6fc031dbeeb": [
+      0,
+      1,
+      0
+    ],
+    "aa8970f5-3514-6b0f-a375-8ebb3bc40074": [
+      0,
+      1,
+      0
+    ],
+    "28531398-d5b6-5960-60c1-6ec28e314c41": [
+      1,
+      0,
+      0
+    ],
+    "be49bf70-9d23-0c0f-a89b-e8a8cc357b55": [
+      0,
+      1,
+      0
+    ],
+    "22d935f8-182c-76f1-a2d1-c80d5ade0f3e": [
+      1,
+      0,
+      1
+    ],
+    "d0311496-50cf-f95f-37ef-9d37bdb47cc8": [
+      0,
+      1,
+      0
+    ],
+    "50b4cab8-6823-e6e6-cf3d-ca4365d7737b": [
+      0,
+      1,
+      0
+    ],
+    "379cf2aa-e06a-90bb-97ce-4fe9fd117760": [
+      0,
+      1,
+      0
+    ],
+    "4ebc8a22-83eb-14c3-f824-c759dd2c4e4d": [
+      4,
+      3,
+      0
+    ],
+    "d36621b6-61fa-40ac-92c9-18b7597d9c64": [
+      2,
+      1,
+      0
+    ],
+    "9d24eb7b-d0ae-98ff-da92-f230c17c6b7c": [
+      3,
+      2,
+      0
+    ],
+    "7fc39517-420c-723f-3cbe-05d4e2d52d2c": [
+      0,
+      1,
+      0
+    ],
+    "670894cd-90ad-5254-6001-416def246565": [
+      0,
+      1,
+      0
+    ],
+    "0ce15be3-e22b-dc83-6648-7b9066005eab": [
+      0,
+      1,
+      0
+    ],
+    "483cbe06-74fb-1f67-5fd2-166d5f21b390": [
+      0,
+      1,
+      0
+    ],
+    "9fa2a632-4d5e-0e79-94d4-2f4aca8594bd": [
+      0,
+      1,
+      0
+    ],
+    "11c7a7fe-d3a2-9277-db99-57fa21e5a945": [
+      0,
+      1,
+      0
+    ],
+    "26ffa6b6-09a5-c986-6efa-758331763709": [
+      7,
+      2,
+      0
+    ],
+    "5879b105-67b5-1d2b-757b-144173e85633": [
+      3,
+      2,
+      0
+    ],
+    "4b07553a-c54c-f7c5-6285-eaf13faa4d1a": [
+      0,
+      1,
+      0
+    ],
+    "d67ac5e8-ff56-fdec-3869-a4a0795d660f": [
+      0,
+      1,
+      0
+    ],
+    "25bb3972-07a7-2ff1-0b52-6fa580e42b5a": [
+      1,
+      0,
+      0
+    ],
+    "1d1bccd0-a3fa-93ee-6734-32ca3f99cdab": [
+      0,
+      1,
+      0
+    ],
+    "5f0da2af-54c2-6039-ba38-e0e1e8996cdb": [
+      5,
+      2,
+      0
+    ],
+    "3fc9b6d6-0f75-f89c-6d39-ce716aaf5d7d": [
+      0,
+      1,
+      0
+    ],
+    "ad59aa43-b5ad-76b9-bf0d-65be0b908199": [
+      0,
+      1,
+      0
+    ],
+    "507f01bf-578f-f7c3-2ed6-b319237622ae": [
+      0,
+      1,
+      0
+    ],
+    "2225ee8a-e258-8c50-965e-837560496606": [
+      0,
+      1,
+      0
+    ],
+    "308feab0-07a3-3b46-baa0-a5f70bd443a4": [
+      0,
+      2,
+      0
+    ],
+    "c0f4dbdb-515c-69c7-8a2c-1516e7beb5bb": [
+      0,
+      1,
+      0
+    ],
+    "92512af7-1316-b4b3-a21f-9193fd4908c6": [
+      0,
+      1,
+      0
+    ],
+    "27aa6dd4-ac9c-c578-fbc8-5d2b1eb612c2": [
+      16,
+      3,
+      0
+    ],
+    "fa537b78-40b9-07e1-06b4-bd2a1e0c3075": [
+      0,
+      1,
+      0
+    ],
+    "c3b28bbf-2d62-cc75-1913-3b019d7a2ca0": [
+      0,
+      1,
+      0
+    ],
+    "f2117207-add3-2195-c520-a5ab51617bb9": [
+      0,
+      1,
+      0
+    ],
+    "2f6d12e5-8464-80b9-d60e-271efa8af3ea": [
+      0,
+      1,
+      0
+    ],
+    "b6d38512-b21e-70bf-5858-0b9cdc01b378": [
+      0,
+      1,
+      0
+    ],
+    "08b86475-3149-2a04-6e4b-ad079ed0fe3c": [
+      1,
+      0,
+      0
+    ],
+    "70e270da-e1ed-f136-02d7-6106e3e2a967": [
+      0,
+      1,
+      1
+    ],
+    "5007e79a-c60f-82f5-45cc-195190bfe59b": [
+      0,
+      2,
+      0
+    ],
+    "7412dfff-4530-0c19-0d4a-c8f640ddafcd": [
+      0,
+      1,
+      0
+    ],
+    "7fc947ea-4221-6f93-a964-83ff96e60cca": [
+      0,
+      1,
+      0
+    ],
+    "87fb422b-d75c-5c55-7e1e-41b6076d78d9": [
+      0,
+      1,
+      0
+    ],
+    "23eff86f-0e85-4f13-14a5-4adb70b6ad6a": [
+      0,
+      1,
+      0
+    ],
+    "644bb317-fcc1-359f-e0ff-d79b732f0169": [
+      10,
+      4,
+      0
+    ],
+    "f61f544c-bb7f-8ce2-e469-d755b2c80bf3": [
+      0,
+      1,
+      0
+    ],
+    "05d285cb-21e6-5837-9ed5-05d03c52c0d6": [
+      0,
+      1,
+      0
+    ],
+    "ace30964-1dd3-53b3-4cb9-7b1fb537ce72": [
+      0,
+      1,
+      0
+    ],
+    "1d7f63a3-45c2-c483-68fc-319211d5e603": [
+      0,
+      1,
+      0
+    ],
+    "e2af1598-7913-9746-0add-1b2d574dc73e": [
+      11,
+      3,
+      2
+    ],
+    "a1c73d59-3721-f2c3-5905-261db1a7d4c6": [
+      0,
+      1,
+      0
+    ],
+    "34f758cb-748e-7493-b237-67d6a697f32a": [
+      0,
+      1,
+      0
+    ],
+    "eb0b4227-5986-5a23-fdc9-369859acbbb4": [
+      0,
+      1,
+      0
+    ],
+    "90879170-a0e4-beeb-48e5-79a57cb4579f": [
+      0,
+      1,
+      0
+    ],
+    "2454a2be-e006-84c1-64c3-5872469ce14f": [
+      2,
+      0,
+      0
+    ],
+    "4eed2f4b-dc6c-102a-5abe-7edc59cb0122": [
+      0,
+      1,
+      0
+    ],
+    "7160cb2e-a8ad-5209-aa2a-1bf08e4de0f7": [
+      1,
+      2,
+      0
+    ],
+    "223d1c8d-3f66-4866-80f6-368ed832868c": [
+      0,
+      1,
+      0
+    ],
+    "dfe8db91-b58a-fa9a-2274-eab447235573": [
+      0,
+      1,
+      0
+    ],
+    "f0e0c9ea-233c-941c-9fdb-968df4a086ab": [
+      1,
+      1,
+      0
+    ],
+    "a82513c9-da19-4b6a-995a-795993dacf2e": [
+      0,
+      1,
+      0
+    ],
+    "b5a77c55-8f12-496f-127a-e49cbcfa5af7": [
+      0,
+      1,
+      0
+    ],
+    "c5f71ac6-adc0-45db-4fb5-86547da64f7c": [
+      8,
+      3,
+      0
+    ],
+    "e577bd43-0504-372a-efe7-fb8a67a37e0b": [
+      0,
+      1,
+      0
+    ],
+    "7c8b9ce7-f200-4a59-f2b8-c5338f9864c3": [
+      0,
+      1,
+      0
+    ],
+    "958f50f2-6cae-bba4-016a-d76613057ad6": [
+      0,
+      1,
+      0
+    ],
+    "f7dc6641-da94-3092-7265-00eedb0fe95a": [
+      0,
+      1,
+      0
+    ],
+    "0bc0ff34-5edf-42a9-5fd3-2af9d9fbd43a": [
+      0,
+      2,
+      0
+    ],
+    "c16ac00a-6946-08cc-86b2-95192cd18fa6": [
+      1,
+      0,
+      0
+    ],
+    "675f6fac-1bbf-3449-8ad2-5effa725d118": [
+      0,
+      1,
+      0
+    ],
+    "a2e69be8-c9c8-f093-b647-d80cb582bc86": [
+      0,
+      1,
+      0
+    ],
+    "82b38fb8-2149-0c11-e548-8141d082267e": [
+      0,
+      1,
+      0
+    ],
+    "f4f9a577-e4c3-e67a-0949-da716488e862": [
+      6,
+      3,
+      0
+    ],
+    "3a11bb9d-76fc-9609-49c0-538d6959b0fd": [
+      5,
+      6,
+      2
+    ],
+    "c5b5b66d-08b5-889a-11fc-3eddb9745e80": [
+      59,
+      3,
+      1
+    ],
+    "c0353685-9dd7-42b1-b873-b5d335c9eac6": [
+      1,
+      2,
+      0
+    ],
+    "69c52f85-3d55-251e-124f-3f244c70f7d9": [
+      0,
+      1,
+      0
+    ],
+    "71b3fc1c-595b-f162-cc12-e55cb32c4278": [
+      4,
+      2,
+      0
+    ],
+    "a7394c71-d128-c9ed-4fb0-867c89be5993": [
+      0,
+      1,
+      0
+    ],
+    "2512e70e-3d81-b95e-5a58-b130e7e84e30": [
+      0,
+      1,
+      0
+    ],
+    "97e5d143-70f3-42c6-89d8-516977c30eb5": [
+      7,
+      2,
+      0
+    ],
+    "a307a649-78ad-dc2c-1cee-beb22a50a95e": [
+      0,
+      1,
+      0
+    ],
+    "27dfb4a3-a64f-5f7a-f3b9-19e3324ee44e": [
+      0,
+      1,
+      0
+    ],
+    "a183f0c5-e82e-47db-9b11-2fe98978d11e": [
+      0,
+      1,
+      0
+    ],
+    "dd501d80-73c8-f05a-9b53-6040f47c8117": [
+      0,
+      1,
+      0
+    ],
+    "795891fc-aad7-0bc6-c940-f99975161f80": [
+      0,
+      1,
+      0
+    ],
+    "e0ae07b6-3e88-74ce-558a-5292f8f83d47": [
+      0,
+      1,
+      0
+    ],
+    "f6914cbc-2bfa-74ac-fe29-b763a062488e": [
+      0,
+      1,
+      0
+    ],
+    "7c35a02d-4d44-6492-bae8-280b5a3cfe94": [
+      0,
+      1,
+      0
+    ],
+    "93d290a4-d729-8e19-4e05-bef2dd5b536e": [
+      0,
+      2,
+      0
+    ],
+    "b0b843c9-b5c4-f7d3-266a-9ab6b9c6e2e5": [
+      3,
+      3,
+      0
+    ],
+    "3e3cd8d2-960a-70ff-dec2-0312118c8784": [
+      0,
+      1,
+      0
+    ],
+    "c162261e-29fb-4e67-1cf1-6237cae8a92d": [
+      1,
+      2,
+      0
+    ],
+    "8c7f72b4-c556-6b71-23fa-942dbfda6413": [
+      0,
+      1,
+      0
+    ],
+    "055b212c-b5bb-add2-3945-6ea9d01ac944": [
+      0,
+      1,
+      0
+    ],
+    "d7aa42cf-2cef-6cf8-9c78-8d8a366a47d5": [
+      0,
+      1,
+      0
+    ],
+    "2de01981-ad4b-f403-9f59-a34716818ed0": [
+      0,
+      1,
+      0
+    ],
+    "5147286d-bc0f-0224-51e7-5317bb891ffb": [
+      0,
+      1,
+      0
+    ],
+    "3b556e11-e3cd-91de-8232-46735df920bc": [
+      0,
+      1,
+      0
+    ],
+    "210fbc69-ad5a-aaf7-b0cb-037628344c63": [
+      0,
+      1,
+      0
+    ],
+    "4faabf83-980e-1cac-1a66-70bcb18f2b44": [
+      0,
+      1,
+      0
+    ],
+    "5cd3fb9a-e92e-6383-59a2-bcdaac05dcab": [
+      0,
+      1,
+      0
+    ],
+    "fd7d734c-2ba5-e15d-128a-b9fc372d4e98": [
+      0,
+      1,
+      0
+    ],
+    "13bbc265-3e3e-a191-8879-11a907c2b820": [
+      0,
+      1,
+      0
+    ],
+    "a32bcedb-48bb-d9dd-beea-b3867c35c01d": [
+      0,
+      1,
+      0
+    ],
+    "0a7bb586-81a5-ad6e-b267-dbe0cb36ff6e": [
+      0,
+      1,
+      0
+    ],
+    "5f977342-54aa-110e-d344-693cfd3693ed": [
+      0,
+      1,
+      0
+    ],
+    "5fa1e37c-be81-4f04-aab6-6b2d15c142d9": [
+      0,
+      1,
+      0
+    ],
+    "386de5c8-951b-1f32-659c-441221ea129d": [
+      0,
+      1,
+      0
+    ],
+    "d892e89f-8ff7-7a5c-d62a-35db0ac9b1b1": [
+      0,
+      1,
+      0
+    ],
+    "5e2c5359-3bfe-3619-9412-c21955b164da": [
+      4,
+      3,
+      0
+    ],
+    "60ffeaa9-5cde-caf8-ee8a-634443bf208a": [
+      0,
+      1,
+      0
+    ],
+    "bfb60254-3d08-71cd-f62a-73eb328bce44": [
+      0,
+      1,
+      0
+    ],
+    "a287d8de-bbbd-432d-ba75-1c8349f3ab1c": [
+      0,
+      1,
+      0
+    ],
+    "ae761988-80e1-bea9-474e-4a86acdfc445": [
+      0,
+      1,
+      0
+    ],
+    "47cb0e32-6286-c04f-800a-2db49e327a93": [
+      0,
+      1,
+      0
+    ],
+    "ac535e5b-d330-c1a7-b50c-15b2a722f4a3": [
+      0,
+      1,
+      0
+    ],
+    "596ad2a2-c802-1346-adcd-905012e8e644": [
+      5,
+      1,
+      1
+    ],
+    "fc19c173-258f-61eb-32c6-f439b2424f52": [
+      0,
+      1,
+      0
+    ],
+    "af88a8f8-efec-d2c6-0609-72fcdc389ad5": [
+      9,
+      2,
+      1
+    ],
+    "26765d3f-574c-d8b1-5661-ee59af40b404": [
+      0,
+      1,
+      0
+    ],
+    "e2c377b3-e35c-8ab7-4041-bf9a8b009cc6": [
+      0,
+      1,
+      0
+    ],
+    "e2decf01-0c15-3030-33f3-80e38b38f823": [
+      0,
+      1,
+      0
+    ],
+    "d3a7d29e-256d-3ebd-0ab6-de1c4fbf51bc": [
+      0,
+      0,
+      1
+    ],
+    "5a75beaf-e2b2-5279-3a2d-70fa6bc7a9b4": [
+      0,
+      1,
+      0
+    ],
+    "e1708b82-732e-d5d1-7529-932887352210": [
+      0,
+      1,
+      0
+    ],
+    "fd13d45e-bc1e-d573-4a9b-862a9a2ea14d": [
+      0,
+      1,
+      0
+    ],
+    "6a5edb3d-85d6-f0b0-0688-f0218e5e3edc": [
+      0,
+      1,
+      0
+    ],
+    "84863863-c499-90c2-aa71-77b1b20fa452": [
+      0,
+      1,
+      0
+    ],
+    "7602b5c4-45ba-4c5d-b9e5-b26f5a132116": [
+      1,
+      0,
+      0
+    ],
+    "c9cda851-49c4-ee32-a775-c62d3df653ae": [
+      0,
+      1,
+      0
+    ],
+    "4626473e-4ac8-3a43-6805-85ec3ff7929e": [
+      0,
+      0,
+      1
+    ],
+    "4b864ea3-1662-3c5d-32e5-96d5bdaa5150": [
+      0,
+      1,
+      0
+    ],
+    "772a1769-e061-4aa4-a712-4bc63273b4e3": [
+      0,
+      1,
+      0
+    ],
+    "0e2a725b-72d8-f9d6-7d7f-5ed495352831": [
+      1,
+      0,
+      0
+    ],
+    "75d321c8-a080-b98b-9c3b-d14cde5468e0": [
+      0,
+      1,
+      0
+    ],
+    "220dc4b4-de9b-4dd1-d336-fa8682da2954": [
+      0,
+      1,
+      0
+    ],
+    "602d3542-f116-dbfa-8053-ccd75553d594": [
+      1,
+      0,
+      0
+    ],
+    "fda3c8cc-02b2-d7e0-fb1e-2caf60efa960": [
+      0,
+      1,
+      0
+    ],
+    "4f086d33-0d4d-2cd9-3805-2c5697d75398": [
+      0,
+      1,
+      0
+    ],
+    "bc750447-457c-0492-56d5-d98da4022640": [
+      0,
+      1,
+      0
+    ],
+    "e6e2335d-b6de-ed0a-4859-a5e7f0b076f7": [
+      0,
+      1,
+      0
+    ],
+    "2034d93d-d7c9-0c44-bd85-f4c12e8c53f9": [
+      1,
+      0,
+      0
+    ],
+    "6d90c4ed-327c-485f-b19b-019cde027e19": [
+      0,
+      1,
+      0
+    ],
+    "bd9568f0-dd8a-bc2c-64a0-cc01e99ec8b1": [
+      0,
+      1,
+      0
+    ],
+    "2ebb442a-aa2c-4756-97da-595e4bdce5e2": [
+      0,
+      1,
+      0
+    ],
+    "c832e40c-db13-3c1c-9b3f-6b6ebf9488c8": [
+      0,
+      1,
+      0
+    ],
+    "112824d8-2470-1b42-38d7-574c2ac8a04f": [
+      0,
+      1,
+      0
+    ],
+    "fe717120-9898-4943-bae0-75d5e701e1ad": [
+      1,
+      0,
+      0
+    ],
+    "f9ec86a2-8a45-f518-5eff-955fb2b5cec8": [
+      1,
+      0,
+      0
+    ],
+    "d7ffb123-801a-a74c-4f08-cc8a78c8b2f3": [
+      0,
+      1,
+      0
+    ],
+    "3678391c-af0c-03db-7606-506c0aafd0f5": [
+      0,
+      1,
+      0
+    ],
+    "8ce855c9-29f7-41f7-8f8e-e1fd1b93301c": [
+      0,
+      0,
+      1
+    ],
+    "8494639d-2076-3585-e7fe-d442b8d7f023": [
+      0,
+      1,
+      0
+    ],
+    "f09263b8-b228-802a-fd37-b45efaf2d881": [
+      0,
+      1,
+      0
+    ],
+    "7be6914a-f759-d002-10c7-8ef0c412e779": [
+      0,
+      1,
+      0
+    ],
+    "6d7edbe9-3f9c-0f05-7721-4989f2f30234": [
+      0,
+      1,
+      0
+    ],
+    "2211165f-e534-f9c1-2492-cbd5613e11d0": [
+      1,
+      0,
+      0
+    ],
+    "cf57dfef-a258-5c0c-9553-c765dce62167": [
+      0,
+      1,
+      0
+    ],
+    "cb137dd9-900b-c2c0-4152-b172c8c7de93": [
+      1,
+      0,
+      0
+    ],
+    "ea664bda-604b-a1fa-aba4-fc152c55f2b6": [
+      0,
+      1,
+      0
+    ],
+    "23a2a180-0b68-edde-abdf-89870d20e285": [
+      0,
+      1,
+      0
+    ],
+    "17ce79a3-bf51-4721-8db6-21c98e316ca2": [
+      0,
+      1,
+      0
+    ],
+    "86a17db4-d1b2-d800-ff0f-3d2f95061377": [
+      0,
+      1,
+      0
+    ],
+    "f3473f76-ba75-1da3-ed66-c2f368fca2c3": [
+      0,
+      1,
+      0
+    ],
+    "c3ec4c36-b416-69a7-95b8-6a4d8eb12a86": [
+      0,
+      1,
+      0
+    ],
+    "3fe3eabb-8671-db22-76a0-7e0ea22c5d58": [
+      0,
+      1,
+      0
+    ],
+    "55fa728f-c4f7-25fa-c492-d5bb467cf3b1": [
+      0,
+      1,
+      0
+    ],
+    "e3ee191b-0005-e4ca-6782-cacce1cdb4bf": [
+      0,
+      1,
+      0
+    ],
+    "6724742b-0337-c746-8366-17387c7e9f5f": [
+      1,
+      0,
+      0
+    ],
+    "5b095405-453e-480a-b5bd-53d8b7f3d012": [
+      0,
+      1,
+      0
+    ],
+    "d662be8c-ced3-4351-b467-cecae6657e71": [
+      0,
+      1,
+      0
+    ],
+    "4167bb07-64b6-2cbc-6cd4-722fe257f124": [
+      0,
+      1,
+      0
+    ],
+    "0b7ef91e-10de-4212-adf9-bfa890932185": [
+      0,
+      1,
+      0
+    ],
+    "cf57319e-cc22-43ee-9612-6e5f27bed1da": [
+      0,
+      1,
+      0
+    ],
+    "15abb943-4ace-4a7d-92e6-c120025e9f53": [
+      1,
+      0,
+      0
+    ],
+    "3475618d-ed30-4780-af85-d0eb50becd11": [
+      0,
+      1,
+      0
+    ],
+    "b8e41fba-6d2a-b568-76e9-46b17146e7f2": [
+      0,
+      1,
+      0
+    ],
+    "344804cc-ee0d-1702-f7a5-dae6a535f753": [
+      2,
+      0,
+      0
+    ],
+    "17435633-485a-fe10-3568-bb0f6e8f72da": [
+      0,
+      1,
+      0
+    ],
+    "ad16b8c8-08e3-10ab-0009-e67f546ac0c0": [
+      0,
+      0,
+      1
+    ],
+    "5c45f38e-8dc2-ad6d-016d-3caa345d2ca9": [
+      0,
+      1,
+      0
+    ],
+    "63f0cb24-5f18-50c3-08d1-f1ff334f3620": [
+      0,
+      1,
+      0
+    ],
+    "9f2d64fa-74ff-b241-3f92-188767a76095": [
+      0,
+      1,
+      0
+    ],
+    "e4dc7e03-e539-e31a-7d25-3f2c9806b030": [
+      0,
+      1,
+      0
+    ],
+    "86c6cdd7-4de2-4366-2e10-91877dffa455": [
+      0,
+      1,
+      0
+    ],
+    "dd882b2e-1755-d32b-e4e9-4226d535a2e3": [
+      0,
+      1,
+      0
+    ],
+    "57d7a54d-654f-c00e-a2c1-d6b214bcbf7b": [
+      0,
+      1,
+      0
+    ],
+    "650630ad-dd16-4fda-8649-6c9a5dd9a343": [
+      0,
+      1,
+      0
+    ],
+    "8a96ebae-aa20-8cd9-3b7e-8e74bc99c463": [
+      1,
+      0,
+      0
+    ],
+    "3b6de0e9-edbf-f922-a461-2aeb09b7b6df": [
+      0,
+      1,
+      0
+    ],
+    "e3e80d61-e6e2-a617-b257-b51f2a98ee12": [
+      0,
+      1,
+      0
+    ],
+    "119e201e-1b62-75a0-58a1-26ed963eb199": [
+      0,
+      1,
+      0
+    ],
+    "1d0c9d5a-3e8e-e9e0-ab40-1d03ca6b88de": [
+      0,
+      1,
+      0
+    ],
+    "2d8af3ed-6c7b-1c6c-a64a-abde2dc6eac8": [
+      0,
+      1,
+      0
+    ],
+    "645ddec7-1259-8c76-cee1-79ab23bd1934": [
+      0,
+      1,
+      0
+    ],
+    "c31a8c96-5690-7244-7ae8-92764d34af24": [
+      0,
+      1,
+      0
+    ],
+    "2f6d5391-084b-4e06-b234-516af92ca21f": [
+      0,
+      1,
+      0
+    ],
+    "d8bdc0f0-3cdc-ee15-34d7-4ca82da8e769": [
+      0,
+      1,
+      0
+    ],
+    "4755a00c-b63b-ccec-d609-9613d00f1ee7": [
+      0,
+      1,
+      0
+    ],
+    "bf168d13-bfeb-a299-1405-61f013ef415a": [
+      0,
+      1,
+      0
+    ],
+    "f024c736-9ade-6aac-84df-2f68354e2528": [
+      0,
+      1,
+      0
+    ],
+    "4615368a-97f2-496d-bcb7-fc1d779768e0": [
+      0,
+      1,
+      0
+    ],
+    "5eb8b9ae-96e4-2800-6a9a-f350f5d4558f": [
+      0,
+      1,
+      0
+    ],
+    "536c4204-0084-64a1-7e50-37c88abf309e": [
+      0,
+      1,
+      0
+    ],
+    "3ead81a3-3d91-0c2c-3437-a4ccc74ef1b1": [
+      0,
+      0,
+      1
+    ],
+    "9cf92691-82a2-4015-a690-a0e3b9228e25": [
+      0,
+      1,
+      0
+    ],
+    "c5754443-72ab-4d3b-2efa-d6959d166e71": [
+      0,
+      1,
+      0
+    ],
+    "542e4081-112d-088c-1c5b-02d8d1edcb99": [
+      0,
+      1,
+      0
+    ],
+    "b7a7b53c-1c5d-bf0c-2289-43dd7e00388a": [
+      0,
+      1,
+      0
+    ],
+    "16731743-ded2-59ac-35df-34cb2eaf79c6": [
+      0,
+      1,
+      0
+    ],
+    "2940be64-c3ea-fd8c-7743-6ebab5189d40": [
+      0,
+      1,
+      0
+    ],
+    "1ee38725-48ac-b071-0371-2a00e894ed67": [
+      1,
+      0,
+      0
+    ],
+    "3c6b98af-058e-0f0f-840a-badc58456d69": [
+      0,
+      1,
+      0
+    ],
+    "b21be005-5860-d09c-2905-f1f93ded2fb7": [
+      0,
+      1,
+      0
+    ],
+    "236696d7-b1ec-4fb9-b494-72639e81bf84": [
+      0,
+      1,
+      0
+    ],
+    "b6f1e65c-57c9-03e2-ffd9-2e66d728be3b": [
+      0,
+      1,
+      0
+    ],
+    "526d0dbe-63a5-4780-bdab-1cdae2b55f13": [
+      0,
+      1,
+      0
+    ],
+    "3bb8f7ad-73d4-7348-bf29-236200c5cc24": [
+      0,
+      1,
+      0
+    ],
+    "aefe0aff-ff59-f908-368d-63a512f6f94b": [
+      0,
+      1,
+      0
+    ],
+    "59573d55-98c4-00f7-18b9-3e56b856c522": [
+      0,
+      1,
+      0
+    ],
+    "44469b4e-d5f9-2c89-efde-179409fd8454": [
+      0,
+      1,
+      0
+    ],
+    "6a19308b-b5cd-bb9a-d892-8eb47e4d5b7d": [
+      0,
+      1,
+      0
+    ],
+    "1907dd82-fc15-4d8c-ae1c-e6e431a36793": [
+      0,
+      1,
+      0
+    ],
+    "6d812188-7c0a-4b4d-b7ac-0ba16486495b": [
+      0,
+      1,
+      0
+    ],
+    "175feab9-48f0-f583-e9bf-03bdc217a9d1": [
+      0,
+      1,
+      0
+    ],
+    "28a2395a-1a07-4e83-8ba9-06b883d76bb6": [
+      0,
+      1,
+      0
+    ],
+    "4fc94beb-251c-faf1-6a05-001028368e90": [
+      0,
+      1,
+      0
+    ],
+    "724189c3-4d27-0dc1-5e2d-484c651054fb": [
+      0,
+      1,
+      0
+    ],
+    "dab69fc1-bc91-a701-6aac-8417d843b955": [
+      0,
+      1,
+      0
+    ],
+    "6999861d-ef97-4be2-b229-91efed7d1c71": [
+      0,
+      1,
+      0
+    ],
+    "6205210c-e5fa-0a41-e47f-16b78311b5df": [
+      0,
+      1,
+      0
+    ],
+    "0eaac2e7-cc0b-72b9-73d7-18531506adf3": [
+      0,
+      1,
+      0
+    ],
+    "46452858-4def-5e98-ebb2-cfec4171200b": [
+      0,
+      1,
+      0
+    ],
+    "c97ed689-0ff8-3e25-231d-13d2725a67a5": [
+      0,
+      0,
+      1
+    ],
+    "846f32eb-d0a5-1370-a461-bc7921c30143": [
+      0,
+      1,
+      0
+    ],
+    "c58eea06-c909-9778-653c-47b91d98118b": [
+      0,
+      1,
+      0
+    ],
+    "e44d7c78-dcbb-0433-07d0-0474f0fbd417": [
+      0,
+      1,
+      0
+    ],
+    "b7ef96d3-584a-f988-5a0b-8600fd9e925e": [
+      0,
+      1,
+      0
+    ],
+    "7ee700c5-9938-c0fc-fe4c-c6891ac20500": [
+      0,
+      1,
+      0
+    ],
+    "e7681e8d-f837-6cd6-73c8-8d7dcc4d7d7a": [
+      0,
+      1,
+      0
+    ],
+    "c66b0e89-c77b-439b-9cb9-6d57fe1028e0": [
+      0,
+      1,
+      0
+    ],
+    "9e642043-54f2-b443-874e-22094de99415": [
+      1,
+      0,
+      0
+    ],
+    "62ded4ce-5ee8-2f12-73bc-533803968f38": [
+      0,
+      1,
+      0
+    ],
+    "b7fb0d32-0533-0bd9-4062-fef83a57b6bb": [
+      0,
+      1,
+      0
+    ],
+    "44b09c28-3449-452c-3d66-b7b92ee05f2b": [
+      0,
+      1,
+      0
+    ],
+    "ba9baf0d-b6e1-56b7-542e-e0607b958bcf": [
+      0,
+      1,
+      0
+    ],
+    "0b197d67-6416-5169-36d2-1db67824bbff": [
+      0,
+      1,
+      0
+    ],
+    "14f1e130-d5d3-8230-79f3-65446b517a82": [
+      0,
+      1,
+      0
+    ],
+    "2ebeaf3b-d911-9c06-0259-a42a4a4da0d7": [
+      1,
+      0,
+      0
+    ],
+    "82dc11a9-8555-715d-63ad-d520f308f63a": [
+      0,
+      1,
+      0
+    ],
+    "98124b0c-3940-8ddd-4557-10331fd8ac8c": [
+      0,
+      1,
+      0
+    ],
+    "d2e45572-9eba-c1dc-b0cf-abe9b53ebba8": [
+      0,
+      1,
+      0
+    ],
+    "5a077770-adfc-e4d4-5bc4-eff700b721c9": [
+      0,
+      1,
+      0
+    ],
+    "8e1df596-6815-f6a4-aa24-cc50d83f8d97": [
+      0,
+      1,
+      0
+    ],
+    "f42b733a-37c3-5f1d-eabe-f7a70998e00e": [
+      0,
+      1,
+      0
+    ],
+    "44f6a597-c2fd-51ed-2e6c-401e02b961f3": [
+      1,
+      0,
+      0
+    ],
+    "80bfa6ba-bf50-3285-7d27-8d55a5e3bf5c": [
+      0,
+      1,
+      0
+    ],
+    "837de252-4953-652a-ff50-20e9e124b3c4": [
+      0,
+      1,
+      0
+    ],
+    "d1566400-eba4-80a0-e33a-82188816f5ca": [
+      0,
+      1,
+      0
+    ],
+    "ca7b7451-dae2-60f1-7617-d28bd7ab9302": [
+      0,
+      1,
+      0
+    ],
+    "c00b6174-c7bf-b7b8-a2c7-34404847060a": [
+      0,
+      1,
+      0
+    ],
+    "8f71f660-aac7-c0b3-81d1-ae4c8d895956": [
+      0,
+      1,
+      0
+    ],
+    "8c2b2e66-07e4-cf57-05d4-362a8ac039a5": [
+      0,
+      1,
+      0
+    ],
+    "d23c775a-bd5b-7b31-c0e7-4a7ba600ea47": [
+      0,
+      1,
+      0
+    ],
+    "0c22c86c-d837-d90a-ce7e-ed74e8eacde5": [
+      0,
+      1,
+      0
+    ],
+    "49da3010-6e4d-a187-9657-3caae9f11e65": [
+      0,
+      1,
+      0
+    ],
+    "f2ae098e-3ab1-83e6-791b-4450928fcd39": [
+      0,
+      1,
+      0
+    ],
+    "88c47b79-0178-2efd-709f-a1c000c62db7": [
+      0,
+      1,
+      0
+    ],
+    "2d6fe0f6-e560-f84c-6f79-81b42b5e2a0f": [
+      0,
+      1,
+      0
+    ],
+    "75213b70-39b7-419e-4c85-aa7663033752": [
+      0,
+      1,
+      0
+    ],
+    "4429b14d-8d0d-b31a-b35e-09c35eb8ab6c": [
+      0,
+      1,
+      0
+    ],
+    "f704c14e-af14-010d-dda4-f09daeef52bd": [
+      0,
+      1,
+      0
+    ],
+    "580e5ffc-1aaa-4467-8f53-58130b374a29": [
+      0,
+      1,
+      0
+    ],
+    "2f409588-e43f-4d89-aea9-6a4ee62433c7": [
+      0,
+      1,
+      1
+    ],
+    "b899f57e-1f8b-8bf9-49c5-28a4558c8a48": [
+      0,
+      1,
+      0
+    ],
+    "4ac90bd4-1e08-3558-5d9c-164870345de6": [
+      1,
+      0,
+      0
+    ],
+    "bf401a2c-af61-768c-08b4-9e873837ca74": [
+      0,
+      1,
+      0
+    ],
+    "28ce90af-7126-3df7-89c8-df4b4632afea": [
+      0,
+      1,
+      0
+    ],
+    "bfff71c7-f5ad-4935-1b9d-52ef57989fd0": [
+      0,
+      1,
+      0
+    ],
+    "5207bd20-a851-da35-454b-87836b96a960": [
+      0,
+      1,
+      0
+    ],
+    "6b455e43-a41c-493d-81c7-327ecf319b52": [
+      0,
+      1,
+      0
+    ],
+    "dcf366b8-0079-fe22-ebcf-7b5abd516893": [
+      0,
+      1,
+      0
+    ],
+    "647837de-26d3-d906-cf26-17e7d4794eaf": [
+      0,
+      1,
+      0
+    ],
+    "75d8f8ed-ed17-7c26-079f-7fa415a7a299": [
+      0,
+      1,
+      0
+    ],
+    "44bef7b9-0ec0-f91e-3096-853bc5e5f6fd": [
+      0,
+      1,
+      0
+    ],
+    "7ecd54f0-44c5-54b7-7e66-ef34b8a4ca9e": [
+      0,
+      1,
+      0
+    ],
+    "a044a2f7-d641-70fe-6cf9-7eb811a979ef": [
+      0,
+      1,
+      0
+    ],
+    "db5fb49f-dd53-4d4c-cec7-113c11fe21d9": [
+      0,
+      1,
+      0
+    ],
+    "5cebce0d-9860-4ced-98d9-055d162f8ae7": [
+      0,
+      1,
+      0
+    ],
+    "adbf985d-7a20-50cb-5edc-74c4dcac7682": [
+      0,
+      1,
+      0
+    ],
+    "ddece559-6b68-14a5-6a2d-beeedba34c3a": [
+      0,
+      1,
+      0
+    ],
+    "7d0f2fb6-02de-5eb1-29a8-c04dc5cf45ed": [
+      0,
+      1,
+      0
+    ],
+    "206bb9a8-3cb9-7127-a8f1-66dc22b63f6c": [
+      0,
+      1,
+      0
+    ],
+    "bfd94d5f-f5e2-917d-25f6-6407046e5d38": [
+      0,
+      1,
+      0
+    ],
+    "16f49cfb-2b8e-07fa-e472-9f51a3031aa6": [
+      0,
+      1,
+      0
+    ],
+    "4ce89d51-945f-34ec-b834-cbe256286ee0": [
+      0,
+      1,
+      0
+    ],
+    "96bd7f04-83d2-8cbf-c019-af96fd568c0c": [
+      0,
+      0,
+      1
+    ],
+    "672938b4-b0c0-daec-b733-7e257195453d": [
+      0,
+      1,
+      0
+    ],
+    "e4c09ed4-d77c-188a-26c5-1016288175de": [
+      1,
+      0,
+      0
+    ],
+    "8ef7550b-ec99-1f9d-3120-e27931cbe7f1": [
+      0,
+      1,
+      0
+    ],
+    "96e2b820-2bd8-254c-cfa8-f05333de3f9b": [
+      1,
+      1,
+      0
+    ],
+    "709a3955-c330-c12c-9536-a916d11ab12a": [
+      0,
+      1,
+      0
+    ],
+    "933f0cfc-a68f-3bcb-b537-a6b2ebbf653c": [
+      0,
+      1,
+      0
+    ],
+    "733dee70-b31d-ae55-8005-ddbc0a6f7d86": [
+      0,
+      1,
+      0
+    ],
+    "19628f97-82d2-963c-57b7-5205cae3920f": [
+      1,
+      0,
+      0
+    ],
+    "8d25f2a7-b765-7ed4-edf4-5f161d0d629a": [
+      0,
+      1,
+      0
+    ],
+    "1fc28104-e3b4-26ac-64e0-4726fb0f826f": [
+      0,
+      0,
+      1
+    ],
+    "83a18981-bfc6-b818-5802-37685d97f753": [
+      0,
+      0,
+      1
+    ],
+    "4261dad0-ee9a-8b23-a77e-bd21d75c39c1": [
+      0,
+      1,
+      0
+    ],
+    "039a659f-b2b4-ada6-fb59-80f3a5a94cf8": [
+      0,
+      1,
+      0
+    ],
+    "c215a5fd-4a62-218b-27c2-626adfbc2999": [
+      1,
+      0,
+      0
+    ],
+    "6a1151a7-758b-2024-39c0-0e7983419758": [
+      0,
+      1,
+      0
+    ],
+    "1ddca46c-4a8a-68e3-ca84-3cb58203f4c0": [
+      1,
+      0,
+      0
+    ],
+    "f25f6cdf-c674-07bc-67cf-b083a4e8e95f": [
+      0,
+      1,
+      0
+    ],
+    "bcf471cc-a7d5-1de8-27a6-b8cfb19fc1f4": [
+      0,
+      1,
+      0
+    ],
+    "824f8783-2349-4b57-a4ba-f9940e715a07": [
+      0,
+      1,
+      0
+    ],
+    "8340869e-c277-4d25-aac2-8cb416992bf5": [
+      0,
+      1,
+      0
+    ],
+    "202c93e1-717a-0963-f473-99c17210c99f": [
+      0,
+      1,
+      0
+    ],
+    "fb3f0b90-1fba-4084-aeba-257527bbbbfb": [
+      0,
+      1,
+      0
+    ],
+    "ff1b12e8-a064-712f-f22c-6e3e335d8fea": [
+      1,
+      0,
+      0
+    ],
+    "b7341a66-5ffe-9813-c4b9-4c2ad22b7c5c": [
+      0,
+      1,
+      0
+    ],
+    "e8329d4c-3212-f8c3-e0d4-141140181b5b": [
+      0,
+      1,
+      0
+    ],
+    "075e6c9d-3204-7457-587b-e40dbbae8ade": [
+      1,
+      0,
+      0
+    ],
+    "fa8b81cd-038b-428e-acdd-3a24a5191d9b": [
+      0,
+      1,
+      0
+    ],
+    "4cc5534d-40e3-7958-e746-a7370e527191": [
+      1,
+      0,
+      0
+    ],
+    "bd0e7b71-8aea-7c2d-10bd-2a52f822a489": [
+      0,
+      1,
+      0
+    ],
+    "07162b61-c2da-a99a-17dd-91fc7430365d": [
+      0,
+      1,
+      0
+    ],
+    "19513713-9e38-98a8-406b-3e9bde8c47a7": [
+      0,
+      1,
+      0
+    ],
+    "fd731b1c-79c9-1db4-1142-92c78619b1e7": [
+      1,
+      0,
+      0
+    ],
+    "1cfdfbc0-63a6-4080-e031-2331ff9cbc52": [
+      0,
+      1,
+      0
+    ],
+    "d809ebd3-117d-1b66-3413-942a37e4ec25": [
+      0,
+      1,
+      0
+    ],
+    "40dfdfb0-8993-f71d-dc45-45e20f1ea36e": [
+      0,
+      1,
+      0
+    ],
+    "663d872d-bca0-f186-11dd-92896d7aca3d": [
+      1,
+      0,
+      0
+    ],
+    "e4ff2b6f-30f8-4215-be51-fe99d5be596c": [
+      0,
+      1,
+      0
+    ],
+    "2ce3a677-f661-4080-857c-97b4d7ea38ca": [
+      0,
+      1,
+      0
+    ],
+    "fd698f63-e280-5a0b-0060-a607bb468ce5": [
+      0,
+      1,
+      0
+    ],
+    "ddcad981-3a5d-2ac8-0f83-f2d08fef8f0e": [
+      1,
+      0,
+      0
+    ],
+    "519c678b-1c96-99df-cebb-214fa8fcbf3e": [
+      0,
+      1,
+      0
+    ],
+    "080589ef-1317-5331-e85c-4b83821499b5": [
+      1,
+      0,
+      0
+    ],
+    "4af9c393-e32a-3070-d6f5-e5164375811e": [
+      0,
+      0,
+      1
+    ],
+    "0a21fa71-8298-43e7-09c2-35aa7d9347ab": [
+      0,
+      1,
+      0
+    ],
+    "0c2b71b1-8118-a7f6-42da-373f0228cdab": [
+      0,
+      1,
+      0
+    ],
+    "7f42e9ec-36e2-0e5d-9f30-ff32e9b0312c": [
+      1,
+      0,
+      0
+    ],
+    "367412e7-0d85-3883-73b9-a07d26de25bd": [
+      1,
+      0,
+      0
+    ],
+    "8d5ab9e7-d341-8085-5538-4f66f487dfc2": [
+      0,
+      1,
+      0
+    ],
+    "eeb6d6a1-0eaf-5fae-5f4d-a638a61160f9": [
+      0,
+      1,
+      0
+    ],
+    "1d986a48-783a-6b23-f63d-16d90a5d0896": [
+      0,
+      1,
+      0
+    ],
+    "ad5073c8-bb76-220e-32ce-a1bc2d546cd5": [
+      0,
+      1,
+      0
+    ],
+    "d2bdbe46-bf6a-ba5e-03b9-dcb9db78a588": [
+      0,
+      1,
+      0
+    ],
+    "38a04db1-cb39-a4d1-5e96-31dd6bc990d0": [
+      1,
+      0,
+      0
+    ],
+    "624161fc-3bc7-007f-de41-a471a6943785": [
+      0,
+      1,
+      0
+    ],
+    "2e183351-680b-17e0-6882-a8ba65c2f3c5": [
+      0,
+      1,
+      0
+    ],
+    "79cc3f31-7398-d0a5-6cd7-6b8d075e6591": [
+      0,
+      1,
+      0
+    ],
+    "57a23da7-dcdf-4b52-bdd0-ab0a923aeb1e": [
+      0,
+      1,
+      0
+    ],
+    "7ff950a9-b53f-42a7-ceab-c7107eb767ab": [
+      0,
+      1,
+      0
+    ]
+  },
+  "isUserAuthenticated": false,
+  "errors": [],
+  "stamp": 0,
+  "status": 1
+}
